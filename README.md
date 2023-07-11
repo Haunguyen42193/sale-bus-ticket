@@ -5,13 +5,13 @@ Sale bus ticket là đề tài về xây dựng hệ thống bán vé xe khách 
 
 2. Các bước thực hiện đề tài
 
-Thiết kế lượt đồ use case.
-Thiết kế sơ đồ lớp.
-Thiết kế giao diện cho ứng dụng.
-Xây dựng các chức năng cho website bán hàng.
-Viết test case kiểm tra các chức năng hệ thống.
-Đảm bảo tính bảo mật cho website bằng cách sử dụng các công nghệ mã hóa dữ liệu.
-Thực hiện thử nghiệm trên website để kiểm tra các lỗi và đảm bảo tính ổn định.
+- Thiết kế lượt đồ use case.
+- Thiết kế sơ đồ lớp.
+- Thiết kế giao diện cho ứng dụng.
+- Xây dựng các chức năng cho website bán hàng.
+- Viết test case kiểm tra các chức năng hệ thống.
+- Đảm bảo tính bảo mật cho website bằng cách sử dụng các công nghệ mã hóa dữ liệu.
+- Thực hiện thử nghiệm trên website để kiểm tra các lỗi và đảm bảo tính ổn định.
 
 3. Thiết kế hệ thống
 
