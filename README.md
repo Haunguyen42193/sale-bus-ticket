@@ -70,7 +70,7 @@ Thực hiện thử nghiệm trên website để kiểm tra các lỗi và đả
 
 - Trang quản chuyến đi
 
-![image](https://github.com/Haunguyen42193/sale-bus-ticket/assets/92702518/db574a89-05bd-4c84-85f9-d525bebc6545)
+![image](https://github.com/Haunguyen42193/sale-bus-ticket/assets/92702518/2a3365e2-09a4-4024-ae6b-a6a62d65a7a5)
 
 - Trang quản lý vé xe
 
