@@ -49,7 +49,8 @@ Sale bus ticket là đề tài về xây dựng hệ thống bán vé xe khách 
 - Sửa chuyến đi.
 - Xóa chuyến đi.
 - Tìm kiếm chuyến đi.
-4.1.1 Chức năng của Staff
+
+4.1.2 Chức năng của Staff
 - Tìm vé theo chuyến.
 - Tìm vé.
 - Đổi vé theo chuyến hoặc đổi chuyến.
