@@ -19,11 +19,11 @@ Sale bus ticket là đề tài về xây dựng hệ thống bán vé xe khách 
 
 ![image](https://github.com/Haunguyen42193/sale-bus-ticket/assets/92702518/de70337e-00a5-4430-8821-d0ff19e2e3a2)
 
-3.1 Sơ đồ lớp
+3.2 Sơ đồ lớp
 
 ![image](https://github.com/Haunguyen42193/sale-bus-ticket/assets/92702518/33e2aae8-ea5f-4ff0-bd6a-45358c1bd154)
 
-3.2 Lược đồ cơ sở dữ liệu
+3.3 Lược đồ cơ sở dữ liệu
 
 - Users (UserID, Username, Password, UserRole, Name)
 - Ticket (TicketID, #UserID, #TripID, #CustomerID, Chair, Status, PrintDate)
@@ -32,7 +32,7 @@ Sale bus ticket là đề tài về xây dựng hệ thống bán vé xe khách 
 - Car (CarID, LisensePlate, Name, SumChair)
 - Route (RouteID, Start, End)
 
-3.3 Mối quan hệ giữa các thực thể
+3.4 Mối quan hệ giữa các thực thể
 
 - Mối quan hệ giữa bảng Users và Ticket: Một User có thể quản nhiều Ticket và một Ticket thuộc một User.
 - Mối quan hệ giữa bảng Ticket và Customer: Một Customer có nhiều Ticket và một Ticket thuộc một Customer.
@@ -40,7 +40,7 @@ Sale bus ticket là đề tài về xây dựng hệ thống bán vé xe khách 
 - Mối quan hệ giữa bảng Trip và Car: Một Car có thể chạy nhiều Trip và một Trip thuộc một Car.
 - Mối quan hệ giữa bảng Trip và Route: Một Route có nhiều Trip và một Trip thuộc một Route.
 
-4. CHức năng]
+4. CHức năng
 
 4.1 Mô tả chức năng
 
